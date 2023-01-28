@@ -9,9 +9,9 @@ const App = () => (
       <Navbar />
       <Routes>
         <Route exact path='/YourTube/' element={<Feed />} />
-        <Route path='/YourTube/video/:id' element={<VideoDetail />} />
-        <Route path='/YourTube/channel/:id' element={<ChannelDetail />} />
-        <Route path='/YourTube/search/:searchTerm' element={<SearchFeed />} />
+        <Route path='/video/:id' element={<VideoDetail />} />
+        <Route path='channel/:id' element={<ChannelDetail />} />
+        <Route path='/search/:searchTerm' element={<SearchFeed />} />
       </Routes>
     </Box>
   </BrowserRouter>
