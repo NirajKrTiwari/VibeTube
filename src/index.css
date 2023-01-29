@@ -65,6 +65,8 @@ a {
 @media screen and (max-width: 900px) {
   .category-btn{
     margin: 10px;
+    font-size:11px;
+    padding: 0 7px;
   }
 }
 
@@ -85,4 +87,10 @@ a {
   .search-bar{
     width:200px;
   }
+}
+@media screen and (max-width: 900px) {
+.cat_icon
+{
+  margin-right: 8px !important;
+}
 }
