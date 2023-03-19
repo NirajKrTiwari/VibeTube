@@ -2,6 +2,8 @@
 -----------
 YourTube is a video streaming web application similar to YourTube that can be used to stream learning videos, music,news and much more. You can also search for videos of your choice.
 
+Url: https://nirajkrtiwari.github.io/YourTube/
+
 Output:
 ![Screenshot 2023-01-31 174003](https://user-images.githubusercontent.com/63774724/215756765-5f0a312e-325b-410b-8fe2-b2c749939bfe.png)
 ![Screenshot 2023-01-31 173620](https://user-images.githubusercontent.com/63774724/215756802-b8ec7652-2769-47cb-9ac4-f71698ffb898.png)
