@@ -42,6 +42,6 @@ export const categories = [
 export const demoThumbnailUrl = 'https://www.howtogeek.com/wp-content/uploads/2021/08/YouTube-logo-hero-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'YourTube';
+export const demoChannelTitle = 'VibeTube';
 export const demoVideoTitle = '......';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
