@@ -10,6 +10,7 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => (
       overflowY: "auto",
       height: { sx: "auto", md: "95%" },
       flexDirection: { md: "column" ,position:"",pb:"10px" },
+      background:"#ffff"
     }}
   >
     {categories.map((category) => (
@@ -25,7 +26,7 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => (
         <span className='cat_icon' style={{ color: category.name === selectedCategory ? "white" : "red", marginRight: "15px" }}>
           {category.icon}
         </span>
-        <span style={{ opacity: category.name === selectedCategory ? "1" : "0.8" }}>
+        <span style={{ opacity: category.name === selectedCategory ? "1" : "0.8" ,color:"#000"}}>
           {category.name}
         </span>
       </button>
